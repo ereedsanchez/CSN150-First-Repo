@@ -1,5 +1,6 @@
 # CSN150-First-Repo
 This is an image  
+![image](https://i.imgur.com/rC6zHRY.jpeg)
 ![this is a sponge](images/sponge.png)
 
 Blah Blah my first repo  
