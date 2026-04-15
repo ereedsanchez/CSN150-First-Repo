@@ -1,4 +1,7 @@
 # CSN150-First-Repo
+This is an image  
+![this is a sponge](images/sponge.png)
+
 Blah Blah my first repo  
 **Bold**  
 *Italics*  
