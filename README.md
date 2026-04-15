@@ -1,4 +1,10 @@
 # CSN150-First-Repo
+List 
+- number 1
+- number 2
+- number 3
+
+- 
 This is an image  
 ![image](https://i.imgur.com/rC6zHRY.jpeg)
 ![this is a sponge](images/sponge.png)
